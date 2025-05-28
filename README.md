@@ -98,7 +98,7 @@ Search any type of news with some keywords.
 
 8. Bookmark screen to save your favorite news
 
-![image alt]()
+![image alt](https://github.com/adityamahor/myNews/blob/9dcf303821c1a74016306799be37fa1055cfb70c/Screenshot%202025-05-28%20170820.png)
 
 ---
 
