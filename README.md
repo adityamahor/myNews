@@ -60,13 +60,19 @@ app
 
 ## Technologies Used
 
--**Programming Language**: Kotlin
--**UI Framework**: Jetpack Compose
--**Architecture**: MVVM (Model-View-ViewModel)
--**Backend/Services**: Firebase (Authentication, Firestore, etc.)
--**API Integration**: Retrofit
--**Pagination**: Paging 3 for efficient data loading
--**Other Libraries**: Coil (for image loading), Hilt (for dependency injection)
+-**Programming Language**: Kotlin.
+
+-**UI Framework**: Jetpack Compose.
+
+-**Architecture**: MVVM (Model-View-ViewModel).
+
+-**Backend/Services**: Firebase (Authentication, Firestore, etc.).
+
+-**API Integration**: Retrofit.
+
+-**Pagination**: Paging 3 for efficient data loading.
+
+-**Other Libraries**: Coil (for image loading), Hilt (for dependency injection).
 
 ---
 
