@@ -81,7 +81,7 @@ app
 3. **Home Screen**
 Displays all popular news with search feature .
 
-![Screenshot 2024-12-25 155431]([https://github.com/user-attachments/assets/15a5f294-a61c-4677-90f2-bed1c8dc1bfc](https://github.com/adityamahor/myNews/blob/6cf411c6060c25262b3cb91e500951f09aa8a06e/Screenshot%202025-05-28%20170719.png))
+![image alt](https://github.com/adityamahor/myNews/blob/6cf411c6060c25262b3cb91e500951f09aa8a06e/Screenshot%202025-05-28%20170719.png)
 ![Screenshot 2024-12-25 155445](https://github.com/user-attachments/assets/c39c732e-910c-4ce6-aa9d-a1503ee70168)
 
 5. **Search screen**
