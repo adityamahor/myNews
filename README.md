@@ -90,7 +90,7 @@ Displays all popular news with search feature .
 6. **Search screen**
 Search any type of news with some keywords.
 
-![image alt]()
+![image alt](https://github.com/adityamahor/myNews/blob/22643473adc28b4a4d50ae77a503d9cc683089f8/Screenshot%202025-05-28%20170811.png)
 
 7. share any news with our friends and family
 
