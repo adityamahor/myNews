@@ -94,7 +94,7 @@ Search any type of news with some keywords.
 
 7. share any news with our friends and family
 
-![image alt]()
+![image alt](https://github.com/adityamahor/myNews/blob/226b46e8b9f910f0340650e4b319d379b1c9e4e8/Screenshot%202025-05-28%20170842.png)
 
 8. Bookmark screen to save your favorite news
 
