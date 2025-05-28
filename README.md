@@ -82,13 +82,23 @@ app
 Displays all popular news with search feature .
 
 ![image alt](https://github.com/adityamahor/myNews/blob/6cf411c6060c25262b3cb91e500951f09aa8a06e/Screenshot%202025-05-28%20170719.png)
-![Screenshot 2024-12-25 155445](https://github.com/user-attachments/assets/c39c732e-910c-4ce6-aa9d-a1503ee70168)
 
-5. **Search screen**
+4. **detailed screen**
+
+![image alt](https://github.com/adityamahor/myNews/blob/b121e41447e10e1eac910383fd8aabebcb6d34f6/Screenshot%202025-05-28%20170741.png)
+
+6. **Search screen**
 Search any type of news with some keywords.
 
-![Screenshot 2024-12-25 155514](https://github.com/user-attachments/assets/32d86d72-1adc-446f-88e7-ef27688d4dc3)
-![Screenshot 2024-12-25 155528](https://github.com/user-attachments/assets/d4e3636a-5a8f-4c02-830b-acf6aeb599c2)
+![image alt]()
+
+7. share any news with our friends and family
+
+![image alt]()
+
+8. Bookmark screen to save your favorite news
+
+![image alt]()
 
 ---
 
